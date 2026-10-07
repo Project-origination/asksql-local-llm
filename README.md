@@ -307,8 +307,8 @@ ai-nl-to-sql/
 ├── .gitignore
 │
 └── screenshots/
-    ├── ask-sql-ranking.png
-    └── ask-sql-timeseries.png
+    ├── ask-sql-ranking.jpg
+    └── ask-sql-timeseries.jpg
 ```
 
 ---
