@@ -318,8 +318,8 @@ ai-nl-to-sql/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
-cd ai-nl-to-sql
+git clone https://github.com/Project-origination/asksql-local-llm.git
+cd asksql-local-llm
 ```
 
 ### 2. Create a virtual environment
