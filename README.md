@@ -297,7 +297,7 @@ Interactive visualizations are generated with **Plotly**.
 ## 📁 Project Structure
 
 ```text
-ai-nl-to-sql/
+asksql-local-llm/
 │
 ├── app.py
 ├── create_database.py
